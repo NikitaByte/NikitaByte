@@ -1,5 +1,5 @@
 ## 👋 Hi there
-## I'm Nikita!
+## I'm Nikita! Game developer 🎮
 - 👀 I’m interested in game development and 3d modeling
 - 🔭 I’m currently working on [SimpleBox](https://github.com/NikitaByte/SimpleBox) and [JARVIS](https://github.com/NikitaByte/JARVIS)
 - 🌱 I’m currently learning:
