@@ -5,8 +5,8 @@
 - 🌱 I’m currently learning:
   - SFML multimedia library for С++
 - 🤝 I’m looking to collaborate on C++/C# or web development projects
-- 😄 Pronouns: he/him
-# 💻 Tech Stack:
+
+## 💻 Tech Stack:
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,html,css,git,github,dotnet,cmake)](https://skillicons.dev)
 
