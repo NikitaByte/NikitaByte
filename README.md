@@ -1,14 +1,20 @@
-# About me
-- 👋 Hi, I’m @NikitaByte
+## 👋 Hi there
+## I'm Nikita!
 - 👀 I’m interested in game development and 3d modeling
-- 🌱 I’m currently learning the C# programming language and web development
-- 💞️ I’m looking to collaborate on C# or web development projects
+- 🔭 I’m currently working on [SimpleBox](https://github.com/NikitaByte/SimpleBox) and [JARVIS](https://github.com/NikitaByte/JARVIS)
+- 🌱 I’m currently learning:
+  - SFML multimedia library for С++
+- 🤝 I’m looking to collaborate on C++/C# or web development projects
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I like cats
-# Stats
-![NikitaByte's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikitaByte&show_icons=true&theme=radical)
+# 💻 Tech Stack:
 
-<!---
-NikitaByte/NikitaByte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,html,css,git,github,dotnet,cmake)](https://skillicons.dev)
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NikitaByte&show_icons=true&theme=radical" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NikitaByte&layout=compact&langs_count=8&show_icons=true&theme=radical&card_width=320" />
+  </a>
+</p>
