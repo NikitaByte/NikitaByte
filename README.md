@@ -4,11 +4,12 @@
 - 🔭 I’m currently working on [SimpleBox](https://github.com/NikitaByte/SimpleBox) and [JARVIS](https://github.com/NikitaByte/JARVIS)
 - 🌱 I’m currently learning:
   - SFML multimedia library for С++
+  - JavaScript language
 - 🤝 I’m looking to collaborate on C++/C# or web development projects
 
 ## 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,html,css,git,github,dotnet,cmake)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,html,css,js,git,github,dotnet,cmake)](https://skillicons.dev)
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
