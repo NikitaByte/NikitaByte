@@ -12,10 +12,8 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,html,css,js,git,github,dotnet,cmake)](https://skillicons.dev)
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NikitaByte&show_icons=true&theme=radical" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NikitaByte&layout=compact&langs_count=8&show_icons=true&theme=radical&card_width=320" />
-  </a>
+
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NikitaByte&show_icons=true&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NikitaByte&layout=compact&langs_count=8&show_icons=true&theme=radical&card_width=320" />
+  
 </p>
